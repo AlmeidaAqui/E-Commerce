@@ -1,0 +1,147 @@
+Categoria: Eletronico
+Nome: Fone Bluetooth
+Preco: R$ 179,90
+Estoque: 12
+Garantia: 12 meses
+Marca: JBL
+Voltagem: 5V
+Cor: Preto
+
+Categoria: Eletronico
+Nome: Fone Gamer
+Preco: R$ 299,90
+Estoque: 5
+Garantia: 12 meses
+Marca: HyperX
+Voltagem: 5V
+Cor: Vermelho
+
+Categoria: Eletronico
+Nome: Notebook V15
+Preco: R$ 3499,90
+Estoque: 5
+Garantia: 12 meses
+Marca: Lenovo
+Voltagem: 220V
+Cor: Fosco
+
+Categoria: Eletronico
+Nome: Notebook IdeaPad 3
+Preco: R$ 3899,90
+Estoque: 8
+Garantia: 12 meses
+Marca: Lenovo
+Voltagem: 220V
+Cor: Fosco
+
+Categoria: Eletronico
+Nome: Mouse MX
+Preco: R$ 649,90
+Estoque: 15
+Garantia: 12 meses
+Marca: Logitech
+Voltagem: 5V
+Cor: Cinza
+
+Categoria: Eletronico
+Nome: Teclado Kumara K552
+Preco: R$ 299,90
+Estoque: 20
+Garantia: 12 meses
+Marca: Redragon
+Voltagem: 5V
+Cor: Preto
+
+Categoria: Eletronico
+Nome: Monitor 24"
+Preco: R$ 899,90
+Estoque: 10
+Garantia: 12 meses
+Marca: LG
+Voltagem: 220V
+Cor: Fosco
+
+Categoria: Livros
+Nome: Clean Code
+Preco: R$ 89,90
+Estoque: 25
+Autor: Robert C. Martin
+ISBN: 978-0132350884
+Editora: Prentice Hall
+N de paginas: 425
+
+Categoria: Livros
+Nome: Box O Senhor dos Aneis
+Preco: R$ 129,90
+Estoque: 18
+Autor: J.R.R. Tolkien
+ISBN: 978-8595084759
+Editora: HarperCollins
+N de paginas: 1776
+
+Categoria: Livros
+Nome: O Hobbit
+Preco: R$ 59,90
+Estoque: 30
+Autor: J.R.R. Tolkien
+ISBN: 978-8595084742
+Editora: HarperCollins
+N de paginas: 368
+
+Categoria: Livros
+Nome: Design Patterns
+Preco: R$ 161,90
+Estoque: 12
+Autor: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+ISBN: 978-0201633610
+Editora: Addison-Wesley
+N de paginas: 669
+
+Categoria: Livros
+Nome: Introducao a Computacao
+Preco: R$ 109,90
+Estoque: 22
+Autor: Paulo Sergio de Souza
+ISBN: 978-8522111497
+Editora: LTC
+N de paginas: 318
+
+Categoria: Produtos digitais
+Nome: Curso de Java
+Preco: R$ 199,90
+Estoque: 100
+Link de download: https://cursos.exemplo.com/java
+Tamanho do arquivo: 2048 MB
+Formato: Videoaula
+
+Categoria: Produtos digitais
+Nome: E-book de Python
+Preco: R$ 49,90
+Estoque: 200
+Link de download: https://ebooks.exemplo.com/python.pdf
+Tamanho do arquivo: 15 MB
+Formato: Textos
+
+Categoria: Produtos digitais
+Nome: Curso de SQL
+Preco: R$ 149,90
+Estoque: 100
+Link de download: https://cursos.exemplo.com/sql
+Tamanho do arquivo: 3072 MB
+Formato: Videoaula e exercicios
+
+Categoria: Produtos digitais
+Nome: E-book de C++
+Preco: R$ 59,90
+Estoque: 150
+Link de download: https://ebooks.exemplo.com/cpp.pdf
+Tamanho do arquivo: 18 MB
+Formato: Textos
+
+Categoria: Produtos digitais
+Nome: Curso de Git
+Preco: R$ 99,90
+Estoque: 120
+Link de download: https://cursos.exemplo.com/git
+Tamanho do arquivo: 1536 MB
+Formato: Videoaula e exercicios
