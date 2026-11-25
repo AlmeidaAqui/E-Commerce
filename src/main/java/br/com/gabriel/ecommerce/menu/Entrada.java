@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.com.gabriel.ecommerce;
+package br.com.gabriel.ecommerce.menu;
 
 import java.util.Scanner;
 import java.util.NoSuchElementException;

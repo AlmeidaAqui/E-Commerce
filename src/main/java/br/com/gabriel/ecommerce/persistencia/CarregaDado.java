@@ -2,13 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.com.gabriel.ecommerce.dataLoader;
+package br.com.gabriel.ecommerce.persistencia;
         
 /**
  *
  * @author gabriel-almeida
  */
 
+import br.com.gabriel.ecommerce.dominio.Produto;
+import br.com.gabriel.ecommerce.dominio.ProdutoLivro;
+import br.com.gabriel.ecommerce.dominio.ProdutoEletronico;
+import br.com.gabriel.ecommerce.dominio.ProdutoDigital;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -17,7 +21,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import br.com.gabriel.ecommerce.data.*;
 
 public class CarregaDado {
     
