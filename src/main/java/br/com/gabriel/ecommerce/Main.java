@@ -4,9 +4,9 @@
 
 package br.com.gabriel.ecommerce;
 
-import br.com.gabriel.ecommerce.persistencia.Persistencia;
-import br.com.gabriel.ecommerce.persistencia.CarregaDado;
-import br.com.gabriel.ecommerce.menu.menuCliente.BuscaProduto;
+import br.com.gabriel.ecommerce.repositorio.Persistencia;
+import br.com.gabriel.ecommerce.repositorio.CarregaDado;
+import br.com.gabriel.ecommerce.servico.BuscaProduto;
 import br.com.gabriel.ecommerce.menu.Entrada;
 import br.com.gabriel.ecommerce.dominio.Pedido;
 import br.com.gabriel.ecommerce.dominio.Produto;

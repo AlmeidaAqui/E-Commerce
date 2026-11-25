@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.com.gabriel.ecommerce.persistencia;
+package br.com.gabriel.ecommerce.repositorio;
 
 /**
  *
@@ -11,7 +11,7 @@ package br.com.gabriel.ecommerce.persistencia;
 
 import br.com.gabriel.ecommerce.dominio.Carrinho;
 import br.com.gabriel.ecommerce.dominio.Pedido;
-import java.io.*;
+import java.io.*; 
 import java.util.ArrayList;
 
 public class Persistencia {
